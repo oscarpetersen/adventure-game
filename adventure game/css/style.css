@@ -1,0 +1,174 @@
+*{
+  font-family: sans-serif;
+}
+body{
+  background-image: url(door.jpg);
+  background-size: cover;
+}
+
+#user{
+background-color: #f2f2f2;
+border-radius: 5px;
+border-right: 2px solid #999999;
+padding: 5px;
+}
+
+#user:hover{
+  margin-left: 2px;
+  border-right: 0px solid #b30000;
+  border-top: 0px solid #b30000;
+
+}
+#start{
+  width: 300px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: white;
+
+  font-size: 30px;
+  font-weight: bold;
+  margin: 2% auto;
+}
+
+#start2{
+  width: 300px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: white;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0 auto;
+}
+#start3{
+  width: 300px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: white;
+
+  font-size: 30px;
+  font-weight: bold;
+  margin: 2% auto;
+}
+#cloud{
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid gray;
+  margin-left: 410px;
+
+
+}
+#demo{
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+div.bstart{
+  margin-top: 50px;
+  text-align: center;
+}
+#paper{
+  width: 600px;
+  height: 550px;
+  border: 0;
+}
+#book{
+  background-color: #00000000;
+  height: 60px;
+  margin-top: 200px;
+  border-color: yellow;
+  margin-left: 839px;
+}
+#bookim{
+  width: 800px;
+  float: left;
+}
+#sear{
+  float: left;
+  background-color: white;
+  border-radius: 10px;
+}
+#bookclosed{
+  width: 500px;
+}
+#key{
+  width: 200px;
+  float: left;
+  display: inline;
+  position: absolute;
+  margin-left: -200px;
+  margin-top: 160px;
+}
+#inv{
+  height: 800px;
+  position: fixed;
+  right: -90px;
+  margin-top: -65px;
+
+}
+#in{
+  position: fixed;
+  right: 30px;
+  top: 30px;
+  background-image: url(but.png);
+  background-color: #00000000;
+  background-size: cover;
+  width: 200px;
+  height: 70px;
+  border: 0px;
+  font-weight: bold;
+  color: white;
+}
+#keyi{
+  width: 40px;
+  float: left;
+  display: inline;
+  position: fixed;
+  right: 60px;
+  margin-top: 153px;
+}
+#sword{
+  position: absolute;
+  width: 250px;
+  bottom: 50px;
+  right: 40%;
+}
+#swordi{
+  width: 60px;
+  float: left;
+
+  position: fixed;
+  right: 50px;
+  top: 200px;
+}
+#swordhol{
+  position: absolute;
+  width: 1300px;
+  right: 100px;
+  top: -30px;
+}
+#slash{
+  position: absolute;
+  width: 1000px;
+  right: 300px;
+  top: 400px;
+
+}
+#swordhol2{
+  position: absolute;
+  width: 1300px;
+  right: 100px;
+  top: -30px;
+}
+#beast{
+  position: absolute;
+  width: 700px;
+  right: 800px;
+  top: 100px;
+}
+#beastd{
+  position: absolute;
+  width: 600px;
+  right: 800px;
+  top: 300px;
+}
